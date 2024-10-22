@@ -1,0 +1,4 @@
+yfinance 
+autograd
+matplotlib 
+pandas
